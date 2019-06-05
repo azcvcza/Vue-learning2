@@ -31,6 +31,11 @@
 					timestamp: null
 				}
 			};
+		},
+		methods:{
+			addMessage(){
+				console.log("hello world");
+			}
 		}
 	};
 </script>

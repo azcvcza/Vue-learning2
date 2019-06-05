@@ -1,1 +1,5 @@
 vuefire-424db
+
+chapter 9 of the book
+
+https://console.firebase.google.com/project/vuefire-424db/database/vuefire-424db/data/message

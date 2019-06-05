@@ -8,15 +8,7 @@
 <script>
 export default {
   name: 'App',
-  data(){
-    return{
-      newMessage:{
-        title:'',
-        text:'',
-        timestamp:null
-      }
-    }
-  }
+  
 }
 </script>
 
